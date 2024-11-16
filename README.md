@@ -1,7 +1,6 @@
-<h1 align="center">
-    <img src="https://media.tenor.com/4ZJeQZ9Iz3kAAAAC/v-letter.gif" alt="VunlSpectre" width="500" />
-</h1>
-
+<h2 align="center">
+    <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="500" />
+</h2>
 
 
 # <span style="color: red;">VunlSpectre 🚀</span> <span style="color: red;">🔥</span>
