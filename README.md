@@ -1,50 +1,47 @@
 <h2 align="center">
-    <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="300" height="300" />
+    <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="200" height="200" />
 </h2>
 
+# VunlSpectre
+>**VunlSpectre** is a cutting-edge, multi-threaded web vulnerability scanner designed to detect a variety of vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and open ports. With fast scanning speeds, customizable features, and real-time logging, **VunlSpectre** is the ultimate tool for web security professionals.
 
-# <span style="color: red;">VunlSpectre 🚀</span> <span style="color: red;">🔥</span>
+## Installation 
 
->**VunlSpectre** is a cutting-edge, multi-threaded web vulnerability scanner built to detect a variety of vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and open ports. With its fast scanning speed, customizable features, and real-time logging, VunlSpectre is the ultimate tool for web security professionals.
+### For Termux (Android)
 
-## Features 🌟
+To use **VunlSpectre** in Termux, type the following commands:
 
-- **SQL Injection & XSS Detection** 🛡️  
-  Detect SQL Injection and XSS vulnerabilities in real-time with automatic identification.
+```bash
+pkg install git -y
+pkg install python3 -y
+git clone https://github.com/Fear2o/VunlSpectre
+cd VunlSpectre
+pip install -r requirements.txt
+python vunlspectre.py
+```
 
-- **Port Scanning (1-65535)** 🔌  
-  Comprehensive port scanning to detect open and vulnerable ports across a range of 1-65535.
+### For Debian-based GNU/Linux Distributions (Kali, Ubuntu, etc.)
 
-- **Multi-threading** ⚡  
-  Speed up scans with multi-threaded operations, reducing scan time drastically.
+To use VunlSpectre on Linux, run the following commands in the terminal:
+```bash
+sudo apt install git
+git clone https://github.com/Fear2o/VunlSpectre
+cd VunlSpectre
+pip install -r requirements.txt
+python vunlspectre.py
+```
 
-- **Customizable Headers & User-Agent** 🎯  
-  Tailor the scanner's HTTP headers and User-Agent to suit your target site.
+### For Windows
+For Windows, run the following commands in Command Prompt or PowerShell:
+```bash
+git clone https://github.com/yourusername/VunlSpectre.git
+cd VunlSpectre
+pip install -r requirements.txt
+python vunlspectre.py
+```
 
-- **Real-time Logging** 📜  
-  All findings are logged as they are discovered, with a detailed report.
-
-- **Error Handling** 💥  
-  Built-in error handling ensures robustness and successful scans even in the face of challenges.
-
-
-## Install 📥
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/VunlSpectre.git
-   cd VunlSpectre
-   ```
-
-2. install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. run the script:
-   ```bash
-   python vunlspectre.py
-   ```
+### For macOS
+On macOS, ensure you have Python 3 installed and then follow the Linux instructions above.
 
 ## Usage 🔑
 ```bash
@@ -52,16 +49,21 @@ Enter target URL: http://example.com/vulnerable_page?id=1
 ```
 All results are logged to log.txt 📝.
 
-### License 📜
+### Requirements ▶
+- 🖥 Linux (Arch, Ubuntu, Kali)
+- 📱 Termux
+- 🖥 Windows
+- 🖥 macOS
+
+### License 
 MIT License - see the [LICENSE](https://github.com/Fear2o/VunlSpectre/blob/main/LICENSE) file for details.
 
-## Disclaimer ⚠️
-
+## Disclaimer
 Use this tool responsibly. **VunlSpectre** is intended for legal and ethical testing purposes only. Misuse may be illegal in many regions. Ensure you have explicit permission before scanning any websites.
 
 ---
 
-## Why Choose VunlSpectre? 🚀
+## Why Choose VunlSpectre? 
 
 - **Fast & Efficient**: Multi-threading allows quick, large-scale scans.
 - **Comprehensive**: Scans for a variety of vulnerabilities, including SQLi, XSS, and open ports.
@@ -73,6 +75,7 @@ Use this tool responsibly. **VunlSpectre** is intended for legal and ethical tes
 
 If you find **VunlSpectre** useful, give us a ⭐! Your support helps us improve and build more powerful security tools for the community.
 
+---
 
 ### Get Involved 🤝
 
