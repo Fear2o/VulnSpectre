@@ -77,15 +77,6 @@ If you find **VunlSpectre** useful, give us a ⭐! Your support helps us improve
 
 ---
 
-### Get Involved 🤝
-
-We welcome contributions from the community! Here’s how you can get involved:
-
-1. **Fork the repository**: Create your own copy of the project.
-2. **Make improvements**: Fix bugs, add features, or enhance documentation.
-3. **Submit a pull request**: Open a PR to contribute your changes.
-4. **Report issues**: If you find a bug or have suggestions, open an issue.
-
-By contributing, you’ll help make **VunlSpectre** even better and help the security community!
-
----
+Crafted by Fear.io
+<p align="left"> <a href="https://github.com/Fear2o"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p><p align="left"> 
