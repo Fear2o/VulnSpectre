@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="500" />
+    <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="300" height="300" />
 </h2>
 
 
