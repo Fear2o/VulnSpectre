@@ -2,14 +2,14 @@
     <img src="https://github.com/Fear2o/VunlSpectre/blob/main/assets/v-letter-gif.gif?raw=true" alt="VunlSpectre" width="200" height="200" />
 </h2>
 
-# VunlSpectre
->**VunlSpectre** is a cutting-edge, multi-threaded web vulnerability scanner designed to detect a variety of vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and open ports. With fast scanning speeds, customizable features, and real-time logging, **VunlSpectre** is the ultimate tool for web security professionals.
+# VulnSpectre
+>**VulnSpectre** is a cutting-edge, multi-threaded web vulnerability scanner designed to detect a variety of vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), and open ports. With fast scanning speeds, customizable features, and real-time logging, **VulnSpectre** is the ultimate tool for web security professionals.
 
 ## Installation 
 
 ### For Termux (Android)
 
-To use **VunlSpectre** in Termux, type the following commands:
+To use **VulnSpectre** in Termux, type the following commands:
 
 ```bash
 pkg install git -y
@@ -22,7 +22,7 @@ python vunlspectre.py
 
 ### For Debian-based GNU/Linux Distributions (Kali, Ubuntu, etc.)
 
-To use VunlSpectre on Linux, run the following commands in the terminal:
+To use VulnSpectre on Linux, run the following commands in the terminal:
 ```bash
 sudo apt install git
 git clone https://github.com/Fear2o/VunlSpectre
@@ -59,11 +59,11 @@ All results are logged to log.txt 📝.
 MIT License - see the [LICENSE](https://github.com/Fear2o/VunlSpectre/blob/main/LICENSE) file for details.
 
 ## Disclaimer
-Use this tool responsibly. **VunlSpectre** is intended for legal and ethical testing purposes only. Misuse may be illegal in many regions. Ensure you have explicit permission before scanning any websites.
+Use this tool responsibly. **VulnSpectre** is intended for legal and ethical testing purposes only. Misuse may be illegal in many regions. Ensure you have explicit permission before scanning any websites.
 
 ---
 
-## Why Choose VunlSpectre? 
+## Why Choose VulnSpectre? 
 
 - **Fast & Efficient**: Multi-threading allows quick, large-scale scans.
 - **Comprehensive**: Scans for a variety of vulnerabilities, including SQLi, XSS, and open ports.
@@ -73,7 +73,7 @@ Use this tool responsibly. **VunlSpectre** is intended for legal and ethical tes
 
 ## ⭐ **Give Us a Star!** ⭐
 
-If you find **VunlSpectre** useful, give us a ⭐! Your support helps us improve and build more powerful security tools for the community.
+If you find **VulnSpectre** useful, give us a ⭐! Your support helps us improve and build more powerful security tools for the community.
 
 ---
 
